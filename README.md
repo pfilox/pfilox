@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-<!--
-**pfilox/pfilox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Petros Filoxenidis**, a passionate **Software Engineer** with a background in **Electrical and Electronic Engineering**.  
+I enjoy building **scalable software**, working with **cloud technologies**, and solving **complex problems** with code. 
 
-Here are some ideas to get you started:
+## 📫 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-filoxenidis)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petros.filoxenidis@example.com)
+
+---
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
