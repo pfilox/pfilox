@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 **Hi there** 
 
 I'm **Petros Filoxenidis**, a passionate **Software Engineer** with a background in **Electrical and Electronic Engineering**.  
 I enjoy building **scalable software**, working with **cloud technologies**, and solving **complex problems** with code. 
