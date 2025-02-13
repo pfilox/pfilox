@@ -17,6 +17,11 @@ I enjoy building **scalable software**, working with **cloud technologies**, and
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+## 🚀 **Projects**
+- **Stand-off Control of Collaborative Robots - Master's Thesis** – Designed a **ROS-based** handheld device to enable seamless communication with collaborative robots.
+- **PID Controller for Quadcopters - Thesis** – Designed and implemented a PID control algorithms for altitude control of a quadcopter.
+- **Autonomous Buggy** – Developed an autonomous navigation algorithm for a closed-loop obstacle course for a buggy using MATLAB and Arduino.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
